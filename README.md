@@ -11,9 +11,10 @@
 <summary>🤔 Challenges</summary>
 
 
-| Challenge     | Name                                      |                             |
-| ------------- | ----------------------------------------- | --------------------------  |
+| Challenge     | Name                                      |                                            |
+| ------------- | ----------------------------------------- | -----------------------------------------  |
 | 01            | The Challenge                             | [Solution](./challenge_01/challenge_01.md) |
+| 02            | Mini Compiler Challenge                   | [Solution](./challenge_02/challenge_02.md) |
 
 
 </details>
