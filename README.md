@@ -22,10 +22,16 @@
 <details>
 <summary>😲 Secrets</summary>
 
-#### 📧 1) Email
-
-> You have new email.
+#### 📧 1) You have new email
 
 #### 🗿 2) Who is this guy?
+
+#### 🎮 3) Konami
+
+#### 📧 4) Who am I?
+
+#### 🧙‍♂️ 5) The most famous magic word in the world
+
+#### 🎉 6) Small pieces or streamers of colored paper
 
 </details>
